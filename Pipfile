@@ -10,6 +10,8 @@ numpy = "*"
 jupyter = "*"
 ipykernel = "*"
 seaborn = "*"
+pandoc = "*"
+nbconvert = "*"
 
 [dev-packages]
 
