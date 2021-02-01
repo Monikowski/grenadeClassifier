@@ -16,6 +16,7 @@ sklearn = "*"
 xgboost = "*"
 tensorflow = "*"
 joblib = "*"
+argparse = "*"
 
 [dev-packages]
 
