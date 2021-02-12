@@ -10,6 +10,13 @@ numpy = "*"
 jupyter = "*"
 ipykernel = "*"
 seaborn = "*"
+nbconvert = "*"
+pandoc = "*"
+sklearn = "*"
+xgboost = "*"
+tensorflow = "*"
+joblib = "*"
+argparse = "*"
 
 [dev-packages]
 
